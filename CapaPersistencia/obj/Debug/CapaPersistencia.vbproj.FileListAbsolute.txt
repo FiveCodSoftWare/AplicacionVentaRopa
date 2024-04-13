@@ -1,0 +1,40 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbprojAssemblyReference.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.Resources.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.GenerateResource.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.CoreCompileInputs.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.CopyComplete
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaPersistencia.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\bin\Debug\CapaDominio.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.AssemblyReference.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.Resources.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.GenerateResource.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.CoreCompileInputs.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.vbproj.CopyComplete
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPersistencia\obj\Debug\CapaPersistencia.pdb

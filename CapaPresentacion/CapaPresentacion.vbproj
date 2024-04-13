@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25559220-2D29-4E73-B876-161D42A81B03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CapaPresentacion.My.MyApplication</StartupObject>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CapaPresentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\Material Desing Librerias\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.9.0.1, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="MaterialSkin">
+      <HintPath>..\..\Material Desing Librerias\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormCategoria.Designer.vb">
+      <DependentUpon>FormCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCliente.Designer.vb">
+      <DependentUpon>FormCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetalleVentaProducto.Designer.vb">
+      <DependentUpon>FormDetalleVentaProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleVentaProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListaCategoria.Designer.vb">
+      <DependentUpon>FormListaCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormListaCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListaMarcaProducto.Designer.vb">
+      <DependentUpon>FormListaMarcaProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormListaMarcaProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMarcaProducto.Designer.vb">
+      <DependentUpon>FormMarcaProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMarcaProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuPrincipalSV.Designer.vb">
+      <DependentUpon>FormMenuPrincipalSV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuPrincipalSV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMostrarListaCliente.Designer.vb">
+      <DependentUpon>FormMostrarListaCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMostrarListaCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMostrarListaProductos.Designer.vb">
+      <DependentUpon>FormMostrarListaProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMostrarListaProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMostrarListaTrabajadores.Designer.vb">
+      <DependentUpon>FormMostrarListaTrabajadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMostrarListaTrabajadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProducto.Designer.vb">
+      <DependentUpon>FormProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTrabajador.Designer.vb">
+      <DependentUpon>FormTrabajador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrabajador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuario.Designer.vb">
+      <DependentUpon>FormUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVenta.Designer.vb">
+      <DependentUpon>FormVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb" />
+    <Compile Include="Modulo.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportes\FormReporteCategoria.Designer.vb">
+      <DependentUpon>FormReporteCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReporteCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormReporteCliente.Designer.vb">
+      <DependentUpon>FormReporteCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReporteCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormReporteComprobanteVenta.Designer.vb">
+      <DependentUpon>FormReporteComprobanteVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReporteComprobanteVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormReporteMarcaProducto.Designer.vb">
+      <DependentUpon>FormReporteMarcaProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReporteMarcaProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormReporteTrabajador.Designer.vb">
+      <DependentUpon>FormReporteTrabajador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReporteTrabajador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaVentaRopaTrujilloDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SistemaVentaRopaTrujilloDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormCategoria.resx">
+      <DependentUpon>FormCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCliente.resx">
+      <DependentUpon>FormCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetalleVentaProducto.resx">
+      <DependentUpon>FormDetalleVentaProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListaCategoria.resx">
+      <DependentUpon>FormListaCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListaMarcaProducto.resx">
+      <DependentUpon>FormListaMarcaProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMarcaProducto.resx">
+      <DependentUpon>FormMarcaProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuPrincipalSV.resx">
+      <DependentUpon>FormMenuPrincipalSV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMostrarListaCliente.resx">
+      <DependentUpon>FormMostrarListaCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMostrarListaProductos.resx">
+      <DependentUpon>FormMostrarListaProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMostrarListaTrabajadores.resx">
+      <DependentUpon>FormMostrarListaTrabajadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProducto.resx">
+      <DependentUpon>FormProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTrabajador.resx">
+      <DependentUpon>FormTrabajador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsuario.resx">
+      <DependentUpon>FormUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVenta.resx">
+      <DependentUpon>FormVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReporteCategoria.resx">
+      <DependentUpon>FormReporteCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReporteCliente.resx">
+      <DependentUpon>FormReporteCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReporteComprobanteVenta.resx">
+      <DependentUpon>FormReporteComprobanteVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReporteMarcaProducto.resx">
+      <DependentUpon>FormReporteMarcaProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReporteTrabajador.resx">
+      <DependentUpon>FormReporteTrabajador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptReporteCategoria.rdlc" />
+    <EmbeddedResource Include="Reportes\rptReporteCliente.rdlc" />
+    <EmbeddedResource Include="Reportes\rptReporteComprobanteVente.rdlc" />
+    <EmbeddedResource Include="Reportes\rptReporteMarcaProducto.rdlc" />
+    <EmbeddedResource Include="Reportes\rptReporteTrabajador.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="SistemaVentaRopaTrujilloDataSet.xsc">
+      <DependentUpon>SistemaVentaRopaTrujilloDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SistemaVentaRopaTrujilloDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SistemaVentaRopaTrujilloDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SistemaVentaRopaTrujilloDataSet.xss">
+      <DependentUpon>SistemaVentaRopaTrujilloDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logosistemaRopa.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PasswordBloqueado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CodigoUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nomnreuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accesousuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paswordk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDominio\CapaDominio.vbproj">
+      <Project>{ac7024db-8ca2-4783-bbda-fc3146556271}</Project>
+      <Name>CapaDominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaPersistencia\CapaPersistencia.vbproj">
+      <Project>{f84d40fe-5e46-4c48-979d-5b979f9c82c4}</Project>
+      <Name>CapaPersistencia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono cerrar FN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono Restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono Minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono Maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuBarra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prubea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregarCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardarc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desactivar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desactivara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\marca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\ropa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Producto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\seguridad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\reporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\equipo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\buscarproducto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\buscarcategoria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\buscarmarca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\importar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\quitar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\fondo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,134 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormDetalleVentaProducto.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormListaCategoria.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormListaMarcaProducto.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMarcaProducto.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipalSV.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaCliente.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaProductos.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaTrabajadores.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormTrabajador.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormUsuario.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormVenta.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteCategoria.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteCliente.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteComprobanteVenta.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteMarcaProducto.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteTrabajador.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojAssemblyReference.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormDetalleVentaProducto.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormListaCategoria.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormListaMarcaProducto.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMarcaProducto.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipalSV.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaCliente.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaProductos.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaTrabajadores.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormTrabajador.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormUsuario.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormVenta.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteCategoria.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteCliente.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteComprobanteVenta.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteMarcaProducto.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteTrabajador.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\RdlCompile.compiled
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaDominio.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\bin\Debug\CapaPersistencia.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormDetalleVentaProducto.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormListaCategoria.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormListaMarcaProducto.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMarcaProducto.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMenuPrincipalSV.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaCliente.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaProductos.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormMostrarListaTrabajadores.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormTrabajador.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormUsuario.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormVenta.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteCategoria.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteCliente.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteComprobanteVenta.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteMarcaProducto.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.FormReporteTrabajador.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

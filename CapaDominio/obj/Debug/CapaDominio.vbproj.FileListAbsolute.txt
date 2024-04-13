@@ -1,0 +1,28 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbprojResolveAssemblyReference.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.Resources.resources
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbproj.GenerateResource.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbproj.CoreCompileInputs.cache
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.dll
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.xml
+D:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.pdb
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\bin\Debug\CapaDominio.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbproj.AssemblyReference.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.Resources.resources
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbproj.GenerateResource.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.vbproj.CoreCompileInputs.cache
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.dll
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.xml
+E:\2018 - Antonio Aburto Cortez\FiveCod Software Proyectos\Proyecto Visual Studio\Presentacion Hoy\AplicacionVentaRopa\AplicacionVentaRopa\CapaDominio\obj\Debug\CapaDominio.pdb
